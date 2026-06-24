@@ -39,7 +39,7 @@ The board was designed in KiCad and demonstrates advanced PCB design practices, 
 
 ## Board Layout
 
-<img src="images/Board.png" alt="CB-01 PCB Layout" width="700"/>
+<img src="Board.png" alt="CB-01 PCB Layout" width="700"/>
 
 ---
 
