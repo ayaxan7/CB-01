@@ -1,7 +1,7 @@
 # NeonCore
 
 <p align="center">
-  <img src="images/Board.png" width="750">
+  <img src="Board.png" width="750">
 </p>
 
 ## RP2040 Cyberpunk Development Badge
